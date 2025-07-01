@@ -1,0 +1,6 @@
+streamlit
+google-api-python-client
+pandas
+nltk
+scikit-learn
+tqdm
